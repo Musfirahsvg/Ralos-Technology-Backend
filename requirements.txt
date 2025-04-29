@@ -1,2 +1,3 @@
 requests
-uvicorn==0.22.0  # For example
+uvicorn==0.22.0  
+fastapi==0.95.0  # Add FastAPI to the list of dependencies
