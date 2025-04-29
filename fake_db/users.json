@@ -1,0 +1,42 @@
+{
+    "zero@gmail.com": {
+        "email": "zero@gmail.com",
+        "password": "1234",
+        "username": "zero"
+    },
+    "user@example.com": {
+        "email": "user@example.com",
+        "username": "string",
+        "password": "$2b$12$K1HSTN2pJFwcJo/Ob.b3POEPWg3bWEXiLdoDmofufBaudDL1T3pFG"
+    },
+    "ufssafser@example.com": {
+        "email": "ufssafser@example.com",
+        "username": "string",
+        "password": "$2b$12$MNt6hbw0HpzSbtKAnD.UIeKvdYdBQNvZ3AGhYXvrf19ihzYShiOx."
+    },
+    "ufssavbcbcnfser@example.com": {
+        "email": "ufssavbcbcnfser@example.com",
+        "username": "string",
+        "password": "$2b$12$28yrXz71poc71C0uAUowTeMlMMld8rBZoqvllggp6RUhMIWIP7Ik6"
+    },
+    "fasfsa@afsgdgs.com": {
+        "email": "fasfsa@afsgdgs.com",
+        "username": "fsaf",
+        "password": "$2b$12$4u8g3Mclm.ot3A5HZjGlzuJ5NrMFOigy366ilDiu1UoWWgtvuCepW"
+    },
+    "fdsgdsasfsa@afsgdgs.com": {
+        "email": "fdsgdsasfsa@afsgdgs.com",
+        "username": "fsaf",
+        "password": "$2b$12$4yqgLejPH/dPp.cbCq1LieTRN0SBuW3GwR9CBtKXOI/Evpr0HH/ue"
+    },
+    "lily123@gmail.com": {
+        "email": "lily123@gmail.com",
+        "username": "lily",
+        "password": "$2b$12$F.XkH9UpklYwLTRDSoKHBOewVRhGeOKB9N/V91swuzQMJjex3Y0iG"
+    },
+    "goober@gmail.com": {
+        "email": "goober@gmail.com",
+        "username": "dsadasf",
+        "password": "$2b$12$RTHKrO1DuOWpLDO0z2q6zu9A0XT9lW5BAaNAhn5n/TDIpEACa2iUG"
+    }
+}
